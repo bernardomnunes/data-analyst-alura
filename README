@@ -1,0 +1,37 @@
+# 📊 Dashboard de Salários na Área de Dados
+
+Este projeto é um dashboard interativo desenvolvido com **Streamlit**, **Pandas** e **Plotly**, que permite explorar e visualizar dados salariais na área de dados ao longo dos anos.  
+O objetivo é fornecer uma visão clara das faixas salariais, cargos, tipos de contrato e distribuições geográficas de remuneração.
+
+---
+
+## 🚀 Funcionalidades
+
+- **Filtros Interativos**  
+  - Ano  
+  - Senioridade  
+  - Tipo de contrato  
+  - Tamanho da empresa  
+
+- **KPIs Principais**  
+  - Salário médio anual  
+  - Salário máximo anual  
+  - Total de registros filtrados  
+  - Cargo mais frequente  
+
+- **Visualizações**  
+  - Top 10 cargos por salário médio  
+  - Distribuição de salários anuais  
+  - Proporção de tipos de trabalho (remoto, híbrido, presencial)  
+  - Mapa mundial com salários médios de **Data Scientists** por país  
+
+- **Tabela de dados detalhados** com os registros filtrados.
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- [Python 3.9+](https://www.python.org/)
+- [Streamlit](https://streamlit.io/)
+- [Pandas](https://pandas.pydata.org/)
+- [Plotly Express](https://plotly.com/python/plotly-express/)
