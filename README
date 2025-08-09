@@ -7,23 +7,26 @@ O objetivo é fornecer uma visão clara das faixas salariais, cargos, tipos de c
 
 ## 🚀 Funcionalidades
 
-- **Filtros Interativos**  
-  - Ano  
-  - Senioridade  
-  - Tipo de contrato  
-  - Tamanho da empresa  
+- **Filtros Interativos**
 
-- **KPIs Principais**  
-  - Salário médio anual  
-  - Salário máximo anual  
-  - Total de registros filtrados  
-  - Cargo mais frequente  
+  - Ano
+  - Senioridade
+  - Tipo de contrato
+  - Tamanho da empresa
 
-- **Visualizações**  
-  - Top 10 cargos por salário médio  
-  - Distribuição de salários anuais  
-  - Proporção de tipos de trabalho (remoto, híbrido, presencial)  
-  - Mapa mundial com salários médios de **Data Scientists** por país  
+- **KPIs Principais**
+
+  - Salário médio anual
+  - Salário máximo anual
+  - Total de registros filtrados
+  - Cargo mais frequente
+
+- **Visualizações**
+
+  - Top 10 cargos por salário médio
+  - Distribuição de salários anuais
+  - Proporção de tipos de trabalho (remoto, híbrido, presencial)
+  - Mapa mundial com salários médios de **Data Scientists** por país
 
 - **Tabela de dados detalhados** com os registros filtrados.
 
